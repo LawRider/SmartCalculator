@@ -1,2 +1,4 @@
 # SmartCalculator
-Smart Calculator supporting '+', '-', '*', '/', '^' operations and prioritizations via parentheses based on postfix (Reverse Polish) notation (JetBrains Academy's project)
+Smart Calculator (JetBrains Academy's project)
+
+It supports '+', '-', '*', '/', '^' operations and prioritizations via parentheses based on postfix (Reverse Polish) notation.
