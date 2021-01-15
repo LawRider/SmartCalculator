@@ -7,7 +7,9 @@ It should be started from terminal by: python calculator.py
 
 Then user should start entering an expression, for example:
 
+<pre>
 a=1
 (a + 3 * 2 - 3) / 2 ^ 2
+</pre>
 
 The result of expression is 1
